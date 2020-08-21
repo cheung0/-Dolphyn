@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %} View all Users {% endblock %}
+
+{% block content %}
+    {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for msg in messages %}
+                <p>{{msg}}</p>
+        {% endfor %}
+    {% endif %}
+    {% endwith %}
+    <img src="{{ url_for('static', filename='groupdolphins.jpg') }}" width="600" height="300" alt = "centered image"/>
+
+    <br>
+    <br>
+    <table class="table table-hover table-warning">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Major</th>
+                <th scope="col">Courses</th>
+                <th scope="col">Number</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in values %}
+                <tr>
+                    <td>{{item.name}}</td>
+                    <td>{{item.major}}</td>
+                    <td>{{item.courses}}</td>
+                    <td>{{item.number}}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

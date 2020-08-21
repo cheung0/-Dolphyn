@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+{% block content %}
+    <h1>What is Dolphyn?</h1>
+    <h2>Dolphyn is a website that students can visit to find people who are taking similar courses.</h2>
+    
+    <h2>Created by: Michael Cheung, student at SJSU studying CS <img src="{{ url_for('static', filename='spartan.png') }}" width="200" height="200"/></h2>
+    
+    <br>
+
+    <h2>I built the frontend with HTML, CSS, and Bootstrap</h2>
+    <h2>And the backend with Python Flask, Jinja, and SQLAlchemy</h2>
+
+    <br>
+
+    <h2>Huge thanks to Professor Malan at Harvard for making CS 50 accessible online for all.</h2>
+
+    <h3>https://cs50.harvard.edu/x/2020/tracks/web/<img src="{{ url_for('static', filename='cs50.jpg') }}" width="500" height="350"/></h3>
+{% endblock %}

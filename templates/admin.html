@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Admin{% endblock %}
+{% block content %}
+<h1>Delete malicious users: </h1>
+    <form action-"/admin" method="post">
+        <input type="text" name="name" placeholder="Name">
+        <input type="submit">
+    </form>
+
+    <br>
+    <br>
+    <br>
+
+    <img src="{{ url_for('static', filename='dolphintricks.jpeg') }}" width="760" height="360"/>
+    
+    <h2>Taken last June at SeaWorld in San Diego.</h2>
+{% endblock %}
