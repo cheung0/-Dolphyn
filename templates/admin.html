@@ -2,9 +2,11 @@
 {% block title %}Admin{% endblock %}
 {% block content %}
 <h1>Delete malicious users: </h1>
-    <form action-"/admin" method="post">
-        <input type="text" name="name" placeholder="Name">
-        <input type="submit">
+<form action="/admin" method="post">
+    <div class="form-group">
+        <input id='username' autocomplete="off" autofocus class="form-control" name="name" placeholder="Name" type="text">
+    </div>
+    <button id='submit' class="btn btn-primary" type="submit">Enter</button>
     </form>
 
     <br>
