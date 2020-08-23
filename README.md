@@ -1,6 +1,6 @@
 # Dolphyn
 Website that lets students find friends to study with.
 
-![Study Buddies Website Demo](Dolphyn Demo.gif)
+![Study Buddies Website Demo](demo/demo.gif)
 
 
