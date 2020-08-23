@@ -31,7 +31,9 @@ Please make sure to update tests as appropriate.
 
 ## Thanks
 [Harvard CS 50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
+
 [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+
 [SQL Alchemy Documentation](https://www.sqlalchemy.org/)
 
 ## License
