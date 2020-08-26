@@ -3,6 +3,12 @@ Dolphyn is a website that lets students find friends to study with.
 
 ![demo](https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif)
 
+In depth walkthrough:
+[![IMAGE ALT TEXT HERE]([![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+/0.jpg)]([![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+)
+
+
 ## Installation
 
 1. Use the package manager [pip](https://pypi.org/project/SQLAlchemy/) to install Flask.
