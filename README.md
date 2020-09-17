@@ -4,7 +4,7 @@ Website that lets students find study dates or meet new friends to study with.
 ![demo](https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif)
 
 
-In depth YouTube walkthrough:
+YouTube walkthrough:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GkV7ON2_gdQ/0.jpg)](https://www.youtube.com/watch?v=GkV7ON2_gdQ)
 
