@@ -8,7 +8,7 @@
   <h3 align="center">Dolphyn</h3>
 
   <p align="center">
-    📱 IOS app that plays the game Truth or Dare
+    🐬 Dolphyn is a website that lets students find study dates or meet friends to study with
     <br />
     <a href="https://www.youtube.com/watch?v=GkV7ON2_gdQ&ab_channel=MikeC"><strong>View Demo »</strong></a>
   </p>
