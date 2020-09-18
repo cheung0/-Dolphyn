@@ -21,7 +21,7 @@
 
 ### Built With
 
-* [Python](https://www.python.org/)
+* Python
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 * [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
