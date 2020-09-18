@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="ezgif.com-video-to-gif.gif.gif">
-    <IMG SRC="ezgif.com-video-to-gif.gif.gif
+  <a href="https://www.youtube.com/watch?v=GkV7ON2_gdQ&ab_channel=MikeC">
+    <IMG SRC="ezgif.com-video-to-gif.gif
 ">
   </a>
 
