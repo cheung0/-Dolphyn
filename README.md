@@ -1,47 +1,63 @@
-Website that lets students find study dates or meet new friends to study with.
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <IMG SRC="https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif
+">
+  </a>
 
-![demo](https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif)
+  <h3 align="center">Dolphyn</h3>
+
+  <p align="center">
+    📱 IOS app that plays the game Truth or Dare
+    <br />
+    <a href="https://www.youtube.com/watch?v=GkV7ON2_gdQ&ab_channel=MikeC"><strong>View Demo »</strong></a>
+  </p>
+</p>
 
 
-YouTube walkthrough:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GkV7ON2_gdQ/0.jpg)](https://www.youtube.com/watch?v=GkV7ON2_gdQ)
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+### Built With
+
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
+* [SQLAlchemy](https://www.sqlalchemy.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [HTML]
+* [HTML]
 
 
 
-## Installation
+<!-- GETTING STARTED -->
+## Getting Started
 
-1. Use the package manager [pip](https://pypi.org/project/SQLAlchemy/) to install Flask.
+To get a local copy up and running follow these simple steps.
 
-```bash
-pip install -U Flask
-``` 
+### Prerequisites
 
-2. Use the package manager [pip](https://pypi.org/project/SQLAlchemy/) to install SQLAlchemy.
+* Python 3.8
+* Flask 1.1.x
+* SQLALchemy 1.2
 
-```bash
-pip install SQLAlchemy
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/github_username/repo_name.git
 ```
 
-## Usage
-
-Launch the app
+2. Run the application
 ```bash
 python application.py
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
+<!-- ACKNOWLEDGEMENTS -->
 ## Thanks
-[Harvard CS 50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 
-[Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
-
-[SQL Alchemy Documentation](https://www.sqlalchemy.org/)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
+* [Harvard's CS50X Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
+* [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart)
+* [Tech with Tim's Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
