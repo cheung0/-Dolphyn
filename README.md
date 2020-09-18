@@ -26,8 +26,8 @@
 * [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
 * [Bootstrap](https://getbootstrap.com/)
-* [HTML]
-* [HTML]
+* HTML
+* CSS
 
 
 
