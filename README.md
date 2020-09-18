@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif">
-    <IMG SRC="https://user-images.githubusercontent.com/56772737/90968078-23369700-e49d-11ea-8ac3-bc389ad5c15c.gif
+  <a href="ezgif.com-video-to-gif.gif.gif">
+    <IMG SRC="ezgif.com-video-to-gif.gif.gif
 ">
   </a>
 
