@@ -60,3 +60,5 @@ python application.py
 * [Harvard's CS50X Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 * [Flask Quickstart Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/#quickstart)
 * [Tech with Tim's Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+* [Bootstrap Documentation](https://getbootstrap.com/)
+* [Jinja Documentation](https://jinja.palletsprojects.com/en/2.11.x/)
