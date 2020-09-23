@@ -28,7 +28,7 @@ class users(db.Model):
 def home():
     return render_template("home.html")
 
-@app.route("/view")
+@app.route("/view") 
 def view():
     return render_template("view.html", values=users.query.all())
 
